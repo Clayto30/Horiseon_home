@@ -4,7 +4,15 @@
 
 ## Description 
 ​
-I scouted and improved the code and accessibility of the code for Horiseon's landing page.
+<P>My initial repository was GitHub.com/Clayton30/Horiseon. On this repo, my css got so out of hand that I ended up deleting 
+commits and starting over. At this point, I wound up with two branches. I could not git push to the main branch, and the site 
+would not deploy from the master branch. So I created a second folder and project on my device and pushed to a new repository 
+where the site is deployed from. This working repo is GitHub.com/Clayto30/Horiseon_Home.
+
+Please feel free to use the links to proceed to appropriate sections. Take a look at the CSS code. You'll find it's less 
+repetitive and has the same functionality. 
+
+Thanks for reading my readme file.
 ​
 ## Table of Contents (Optional)
 ​
@@ -16,7 +24,8 @@ If your README is very long, add a table of contents to make it easy for users t
 ​
 ## Usage 
 ​
-Click on the nav links to get to the sections. Improved accessibility includes ease of use for users utilizing a screen-reader. Please feel free to take a gander at the re-ordered CSS code with less repetition, and all the same function. Thanks for reading my README.
+Click on the nav links to get to the sections. Improved accessibility includes ease of use for users utilizing a screen-reader. 
+Please feel free to take a gander at the re-ordered CSS code with less repetition, and all the same function. Thanks for reading my README.
 ​
 ## Credits
 ​
@@ -46,8 +55,7 @@ SOFTWARE.
 ​
 ---
 ​
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-​
+
 ---
 ​
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
